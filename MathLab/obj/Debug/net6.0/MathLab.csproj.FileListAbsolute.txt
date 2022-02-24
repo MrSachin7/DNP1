@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\MathLab\bin\Debug\net6.0\MathLab.exe
+D:\SEM 3\DNP1\DNP1\MathLab\bin\Debug\net6.0\MathLab.deps.json
+D:\SEM 3\DNP1\DNP1\MathLab\bin\Debug\net6.0\MathLab.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\MathLab\bin\Debug\net6.0\MathLab.dll
+D:\SEM 3\DNP1\DNP1\MathLab\bin\Debug\net6.0\ref\MathLab.dll
+D:\SEM 3\DNP1\DNP1\MathLab\bin\Debug\net6.0\MathLab.pdb
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.dll
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\ref\MathLab.dll
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.pdb
+D:\SEM 3\DNP1\DNP1\MathLab\obj\Debug\net6.0\MathLab.genruntimeconfig.cache

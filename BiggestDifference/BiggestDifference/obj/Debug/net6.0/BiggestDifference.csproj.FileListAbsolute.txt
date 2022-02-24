@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\bin\Debug\net6.0\BiggestDifference.exe
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\bin\Debug\net6.0\BiggestDifference.deps.json
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\bin\Debug\net6.0\BiggestDifference.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\bin\Debug\net6.0\BiggestDifference.dll
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\bin\Debug\net6.0\ref\BiggestDifference.dll
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\bin\Debug\net6.0\BiggestDifference.pdb
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.dll
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\ref\BiggestDifference.dll
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.pdb
+D:\SEM 3\DNP1\DNP1\BiggestDifference\BiggestDifference\obj\Debug\net6.0\BiggestDifference.genruntimeconfig.cache

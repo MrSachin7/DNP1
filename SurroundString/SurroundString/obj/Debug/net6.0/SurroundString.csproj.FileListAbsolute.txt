@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\bin\Debug\net6.0\SurroundString.exe
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\bin\Debug\net6.0\SurroundString.deps.json
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\bin\Debug\net6.0\SurroundString.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\bin\Debug\net6.0\SurroundString.dll
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\bin\Debug\net6.0\ref\SurroundString.dll
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\bin\Debug\net6.0\SurroundString.pdb
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.dll
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\ref\SurroundString.dll
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.pdb
+D:\SEM 3\DNP1\DNP1\SurroundString\SurroundString\obj\Debug\net6.0\SurroundString.genruntimeconfig.cache

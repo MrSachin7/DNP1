@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\bin\Debug\net6.0\AbbA.exe
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\bin\Debug\net6.0\AbbA.deps.json
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\bin\Debug\net6.0\AbbA.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\bin\Debug\net6.0\AbbA.dll
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\bin\Debug\net6.0\ref\AbbA.dll
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\bin\Debug\net6.0\AbbA.pdb
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.dll
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\ref\AbbA.dll
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.pdb
+D:\SEM 3\DNP1\DNP1\AbbA\AbbA\obj\Debug\net6.0\AbbA.genruntimeconfig.cache

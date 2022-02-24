@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\ArrayClamp\bin\Debug\net6.0\ArrayClamp.exe
+D:\SEM 3\DNP1\DNP1\ArrayClamp\bin\Debug\net6.0\ArrayClamp.deps.json
+D:\SEM 3\DNP1\DNP1\ArrayClamp\bin\Debug\net6.0\ArrayClamp.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\ArrayClamp\bin\Debug\net6.0\ArrayClamp.dll
+D:\SEM 3\DNP1\DNP1\ArrayClamp\bin\Debug\net6.0\ref\ArrayClamp.dll
+D:\SEM 3\DNP1\DNP1\ArrayClamp\bin\Debug\net6.0\ArrayClamp.pdb
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.dll
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ref\ArrayClamp.dll
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.pdb
+D:\SEM 3\DNP1\DNP1\ArrayClamp\obj\Debug\net6.0\ArrayClamp.genruntimeconfig.cache

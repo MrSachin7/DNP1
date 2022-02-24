@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DoctorsWaitingRoom/1.0.0": {
+        "runtime": {
+          "DoctorsWaitingRoom.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoctorsWaitingRoom/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

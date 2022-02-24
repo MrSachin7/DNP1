@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\bin\Debug\net6.0\BirdWatchers.exe
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\bin\Debug\net6.0\BirdWatchers.deps.json
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\bin\Debug\net6.0\BirdWatchers.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\bin\Debug\net6.0\BirdWatchers.dll
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\bin\Debug\net6.0\ref\BirdWatchers.dll
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\bin\Debug\net6.0\BirdWatchers.pdb
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.dll
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\ref\BirdWatchers.dll
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.pdb
+D:\SEM 3\DNP1\DNP1\BirdWatchers\BirdWatchers\obj\Debug\net6.0\BirdWatchers.genruntimeconfig.cache

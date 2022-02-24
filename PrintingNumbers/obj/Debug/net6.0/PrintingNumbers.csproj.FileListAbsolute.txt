@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.exe
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.deps.json
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.dll
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\bin\Debug\net6.0\ref\PrintingNumbers.dll
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\bin\Debug\net6.0\PrintingNumbers.pdb
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.dll
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\ref\PrintingNumbers.dll
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.pdb
+D:\SEM 3\DNP1\DNP1\PrintingNumbers\obj\Debug\net6.0\PrintingNumbers.genruntimeconfig.cache
