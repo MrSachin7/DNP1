@@ -6,5 +6,5 @@ ProductFinder productFinder = new ProductFinder();
 Console.WriteLine(productFinder.TheNumber);
 Console.WriteLine(productFinder.BiggestProductOfFourConsecutive());
 productFinder.PrintThoseFourNumbersAndTheirIndexPlease();
-Console.WriteLine(productFinder.FindTheBiggestProductOfXConsecutiveNumbers(5));
-productFinder.PrintThoseXNumbersAndTheirIndexPlease(5);
+Console.WriteLine(productFinder.FindTheBiggestProductOfXConsecutiveNumbers(4));
+productFinder.PrintThoseXNumbersAndTheirIndexPlease(4);

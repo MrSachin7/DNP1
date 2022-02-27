@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LetsDoSomeRandomStrings/1.0.0": {
+        "runtime": {
+          "LetsDoSomeRandomStrings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LetsDoSomeRandomStrings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
