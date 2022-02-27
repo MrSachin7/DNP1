@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\bin\Debug\net6.0\CheckForPalindrome.exe
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\bin\Debug\net6.0\CheckForPalindrome.deps.json
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\bin\Debug\net6.0\CheckForPalindrome.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\bin\Debug\net6.0\CheckForPalindrome.dll
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\bin\Debug\net6.0\ref\CheckForPalindrome.dll
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\bin\Debug\net6.0\CheckForPalindrome.pdb
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.dll
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\ref\CheckForPalindrome.dll
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.pdb
+D:\SEM 3\DNP1\DNP1\CheckForPalindrome\obj\Debug\net6.0\CheckForPalindrome.genruntimeconfig.cache
