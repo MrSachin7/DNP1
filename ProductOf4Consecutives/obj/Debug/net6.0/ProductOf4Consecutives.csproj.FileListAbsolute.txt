@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\bin\Debug\net6.0\ProductOf4Consecutives.exe
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\bin\Debug\net6.0\ProductOf4Consecutives.deps.json
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\bin\Debug\net6.0\ProductOf4Consecutives.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\bin\Debug\net6.0\ProductOf4Consecutives.dll
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\bin\Debug\net6.0\ref\ProductOf4Consecutives.dll
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\bin\Debug\net6.0\ProductOf4Consecutives.pdb
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.dll
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ref\ProductOf4Consecutives.dll
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.pdb
+D:\SEM 3\DNP1\DNP1\ProductOf4Consecutives\obj\Debug\net6.0\ProductOf4Consecutives.genruntimeconfig.cache

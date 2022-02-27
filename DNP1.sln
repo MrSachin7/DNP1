@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarAndPredicates", "CarAndP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoctorsWaitingRoom", "Doctors_Waiting_Room\DoctorsWaitingRoom\DoctorsWaitingRoom.csproj", "{27C4056E-A2DA-4E7B-BC17-C25AC68178D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductOf4Consecutives", "ProductOf4Consecutives\ProductOf4Consecutives.csproj", "{AAA8956D-DFE7-4704-93B3-E72A4B181D07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{27C4056E-A2DA-4E7B-BC17-C25AC68178D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27C4056E-A2DA-4E7B-BC17-C25AC68178D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27C4056E-A2DA-4E7B-BC17-C25AC68178D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAA8956D-DFE7-4704-93B3-E72A4B181D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAA8956D-DFE7-4704-93B3-E72A4B181D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAA8956D-DFE7-4704-93B3-E72A4B181D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAA8956D-DFE7-4704-93B3-E72A4B181D07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
