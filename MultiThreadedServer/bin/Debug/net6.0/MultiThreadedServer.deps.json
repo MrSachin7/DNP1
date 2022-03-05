@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MultiThreadedServer/1.0.0": {
+        "runtime": {
+          "MultiThreadedServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MultiThreadedServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

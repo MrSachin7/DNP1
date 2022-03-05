@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\bin\Debug\net6.0\MultiThreadedServer.exe
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\bin\Debug\net6.0\MultiThreadedServer.deps.json
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\bin\Debug\net6.0\MultiThreadedServer.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\bin\Debug\net6.0\MultiThreadedServer.dll
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\bin\Debug\net6.0\ref\MultiThreadedServer.dll
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\bin\Debug\net6.0\MultiThreadedServer.pdb
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.dll
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\ref\MultiThreadedServer.dll
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.pdb
+D:\SEM 3\DNP1\DNP1\MultiThreadedServer\obj\Debug\net6.0\MultiThreadedServer.genruntimeconfig.cache

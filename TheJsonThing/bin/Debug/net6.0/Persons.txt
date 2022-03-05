@@ -1,0 +1,41 @@
+[
+  {
+    "FirstName": "Sachin",
+    "LastName": "Baral",
+    "Age": 19,
+    "Height": 175,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Programming",
+      "Playing Games",
+      "Sleeping"
+    ]
+  },
+  {
+    "FirstName": "Emil",
+    "LastName": "Vassilev",
+    "Age": 26,
+    "Height": 174,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Blockchain developing",
+      "Playing Games",
+      "Sleeping"
+    ]
+  },
+  {
+    "FirstName": "Himal",
+    "LastName": "Sharma",
+    "Age": 19,
+    "Height": 174.5,
+    "IsMarried": false,
+    "Sex": "M",
+    "Hobbies": [
+      "Cooking Farsi",
+      "Watching Anime",
+      "Sleeping"
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\ChatClient\bin\Debug\net6.0\ChatClient.exe
+D:\SEM 3\DNP1\DNP1\ChatClient\bin\Debug\net6.0\ChatClient.deps.json
+D:\SEM 3\DNP1\DNP1\ChatClient\bin\Debug\net6.0\ChatClient.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\ChatClient\bin\Debug\net6.0\ChatClient.dll
+D:\SEM 3\DNP1\DNP1\ChatClient\bin\Debug\net6.0\ref\ChatClient.dll
+D:\SEM 3\DNP1\DNP1\ChatClient\bin\Debug\net6.0\ChatClient.pdb
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.dll
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ref\ChatClient.dll
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.pdb
+D:\SEM 3\DNP1\DNP1\ChatClient\obj\Debug\net6.0\ChatClient.genruntimeconfig.cache

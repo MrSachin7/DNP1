@@ -1,0 +1,15 @@
+D:\SEM 3\DNP1\DNP1\TheJsonThing\bin\Debug\net6.0\TheJsonThing.exe
+D:\SEM 3\DNP1\DNP1\TheJsonThing\bin\Debug\net6.0\TheJsonThing.deps.json
+D:\SEM 3\DNP1\DNP1\TheJsonThing\bin\Debug\net6.0\TheJsonThing.runtimeconfig.json
+D:\SEM 3\DNP1\DNP1\TheJsonThing\bin\Debug\net6.0\TheJsonThing.dll
+D:\SEM 3\DNP1\DNP1\TheJsonThing\bin\Debug\net6.0\ref\TheJsonThing.dll
+D:\SEM 3\DNP1\DNP1\TheJsonThing\bin\Debug\net6.0\TheJsonThing.pdb
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.csproj.AssemblyReference.cache
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.AssemblyInfoInputs.cache
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.AssemblyInfo.cs
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.csproj.CoreCompileInputs.cache
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.dll
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\ref\TheJsonThing.dll
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.pdb
+D:\SEM 3\DNP1\DNP1\TheJsonThing\obj\Debug\net6.0\TheJsonThing.genruntimeconfig.cache

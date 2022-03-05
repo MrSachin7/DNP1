@@ -10,6 +10,7 @@ public class RandomStringLetsGo {
 
     public static void PrintSumsBetweenQuestionMarks(string s) {
         int count = 0;
+        // s.Count((c => c == '?'));
         foreach (char c in s) {
             if (c == '?') {
                 count++;
