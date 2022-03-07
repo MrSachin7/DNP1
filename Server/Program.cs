@@ -38,16 +38,21 @@ static void HandleProvidedClient(TcpClient client) {
             // client.Dispose();
             break;
         }
+
         Console.WriteLine($"Message >> {deserialize.MessageBody} at {deserialize.TimeStamp}");
 
         Console.WriteLine("Please write a reply for that client..");
         string? reply = Console.ReadLine();
-        Message message = new Message(reply, DateTime.Now);
+        Message message = new Message {
+            MessageBody = reply,
+            TimeStamp = DateTime.Now
+        };
         string messageToSend = JsonSerializer.Serialize(message);
         // respond
         byte[] dataToClient = Encoding.ASCII.GetBytes(messageToSend);
         stream.Write(dataToClient, 0, dataToClient.Length);
     }
+
     client.Dispose();
     //client.Close();
 }

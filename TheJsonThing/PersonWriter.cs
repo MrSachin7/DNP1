@@ -1,4 +1,4 @@
-﻿using System.Text;
+﻿
 using System.Text.Json;
 
 namespace TheJsonThing; 
@@ -24,7 +24,7 @@ public class PersonWriter {
        var jsonFromFile = File.ReadAllText("Persons.txt");
 
 
-       List<Person>? deserialize = JsonSerializer.Deserialize<List<Person>>(jsonFromFile);
-       return deserialize;
+       List<Person>? deserializedList = JsonSerializer.Deserialize<List<Person>>(jsonFromFile);
+       return deserializedList;
    }
 }
